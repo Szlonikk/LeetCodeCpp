@@ -7,3 +7,4 @@ LeetCode problems using c++
 2239. FindClosestNumberToZero (EASY)
 1768. MergeStringsAlternately (EASY)
 13. RomanToInteger (EASY)
+392. IsSubsequence (EASY)
